@@ -1,0 +1,57 @@
+{
+    "ret": "true",
+    "gallerys": [
+        {
+            "gid": "101",
+            "galleryData": [
+                {
+                    "galleryId": "1011",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1707/c7/c7f3baa7a5094e3ca3.img.jpg_600x330_1fbb0457.jpg"
+                },
+                {
+                    "galleryId": "1012",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1412/e9/d5c72454d47eda983bd4e857c9c361d8.water.jpg_600x330_396672b0.jpg"
+                }
+            ]
+        },
+        {
+            "gid": "102",
+            "galleryData": [
+                {
+                    "galleryId": "1021",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1412/e9/d5c72454d47eda983bd4e857c9c361d8.water.jpg_600x330_396672b0.jpg"
+                },
+                {
+                    "galleryId": "1022",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1707/c7/c7f3baa7a5094e3ca3.img.jpg_600x330_1fbb0457.jpg"
+                }
+            ]
+        },
+        {
+            "gid": "103",
+            "galleryData": [
+                {
+                    "galleryId": "1031",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1811/42/42958b9abc760e2aa3.img.jpg_600x330_9efd59b7.jpg"
+                },
+                {
+                    "galleryId": "1032",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1811/da/da5d81a240eb2b3da3.img.jpg_600x330_a6450791.jpg"
+                }
+            ]
+        },
+        {
+            "gid": "104",
+            "galleryData": [
+                {
+                    "galleryId": "1041",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1811/da/da5d81a240eb2b3da3.img.jpg_600x330_a6450791.jpg"
+                },
+                {
+                    "galleryId": "1042",
+                    "galleryPicUrl": "//img1.qunarzz.com/sight/p0/1811/42/42958b9abc760e2aa3.img.jpg_600x330_9efd59b7.jpg"
+                }
+            ]
+        }
+    ]
+}

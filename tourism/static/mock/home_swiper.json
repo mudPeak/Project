@@ -1,0 +1,11 @@
+{
+    "ret": true,
+    "sliders": [
+        { "resouceId":"01", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181123_dujiashouye_diyizhen.jpg" },
+        { "resouceId":"02", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181127_2_app_dujiashouye_banner.jpg" },
+        { "resouceId":"03", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181123_dujiashouye_3.jpg" },
+        { "resouceId":"04", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181123_dujiashouye_4.jpg" },
+        { "resouceId":"05", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181123_dujiashouye_5.jpg" },
+        { "resouceId":"06", "resouceUrl":"//source.qunarzz.com/site/images/wns/20181123_dujiashouye_6.jpg" }
+    ]
+}
