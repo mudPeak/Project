@@ -1,1125 +1,1454 @@
 {
   "data": {
-    "classify": [{
-      "classifyId": "1",
-      "classifyName": "新鲜水果",
-      "classifyEnglishName": "fruit",
-      "fruitCategory": [{
-        "categoryId": "1.0",
-        "categoryName": "全部",
-        "categoryEnglishName": "allFruit",
-        "commoditys": [{
-          "goodsId": "6196001723045649672",
-          "goodsName": "苹果芒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=619600172,3045649672&fm=26&gp=0.jpg",
-          "mallPrice": "15",
-          "price": "16.8",
-          "salesVolume": "3021"
-        }, {
-          "goodsId": "41000373012217037678",
-          "goodsName": "红毛丹",
-          "image": "http://img1.imgtn.bdimg.com/it/u=4100037301,2217037678&fm=26&gp=0.jpg",
-          "mallPrice": "18",
-          "price": "21.5",
-          "salesVolume": "6538"
-        }, {
-          "goodsId": "893134562042995934",
-          "goodsName": "番荔枝",
-          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=89313456,2042995934&fm=26&gp=0.jpg",
-          "mallPrice": "17",
-          "price": "20.7",
-          "salesVolume": "8170"
-        }, {
-          "goodsId": "39904981591639245009",
-          "goodsName": "杨桃",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3990498159,1639245009&fm=26&gp=0.jpg",
-          "mallPrice": "13",
-          "price": "15.3",
-          "salesVolume": "2907"
-        }, {
-          "goodsId": "2620683847682040074",
-          "goodsName": "猕猴桃",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2620683847,682040074&fm=26&gp=0.jpg",
-          "mallPrice": "15.5",
-          "price": "18",
-          "salesVolume": "5681"
-        }, {
-          "goodsId": "20002165072312022663",
-          "goodsName": "龙眼",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2000216507,2312022663&fm=26&gp=0.jpg",
-          "mallPrice": "11.8",
-          "price": "13.8",
-          "salesVolume": "2907"
-        }, {
-          "goodsId": "25683801164220404133",
-          "goodsName": "火龙果",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2568380116,4220404133&fm=26&gp=0.jpg",
-          "mallPrice": "14.2",
-          "price": "16.9",
-          "salesVolume": "4888"
-        }, {
-          "goodsId": "14392653371540019082",
-          "goodsName": "红香蕉",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1439265337,1540019082&fm=26&gp=0.jpg",
-          "mallPrice": "20",
-          "price": "22.8",
-          "salesVolume": "4375"
-        }, {
-          "goodsId": "28384941413515212825",
-          "goodsName": "冬枣",
-          "image": "http://img2.imgtn.bdimg.com/it/u=2838494141,3515212825&fm=26&gp=0.jpg",
-          "mallPrice": "11.6",
-          "price": "12.1",
-          "salesVolume": "5554"
-        }, {
-          "goodsId": "4131990943380826430",
-          "goodsName": "枇杷",
-          "image": "http://img1.imgtn.bdimg.com/it/u=4131990943,380826430&fm=26&gp=0.jpg",
-          "mallPrice": "8.4",
-          "price": "9.3",
-          "salesVolume": "2440"
-        }, {
-          "goodsId": "28639596881334749045",
-          "goodsName": "果桑",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2863959688,1334749045&fm=26&gp=0.jpg",
-          "mallPrice": "11.3",
-          "price": "8.7",
-          "salesVolume": "7778"
-        }, {
-          "goodsId": "40479788321257968424",
-          "goodsName": "西瓜",
-          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4047978832,1257968424&fm=26&gp=0.jpg",
-          "mallPrice": "4.9",
-          "price": "8.3",
-          "salesVolume": "1398"
-        }, {
-          "goodsId": "14722304223668925053",
-          "goodsName": "菠萝",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1472230422,3668925053&fm=26&gp=0.jpg",
-          "mallPrice": "8.9",
-          "price": "11.2",
-          "salesVolume": "4761"
-        }, {
-          "goodsId": "11193092442533488468",
-          "goodsName": "樱桃",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1119309244,2533488468&fm=26&gp=0.jpg",
-          "mallPrice": "23.3",
-          "price": "25.6",
-          "salesVolume": "10038"
-        }, {
-          "goodsId": "17625485491889757473",
-          "goodsName": "红富士苹果",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1762548549,1889757473&fm=26&gp=0.jpg",
-          "mallPrice": "14.6",
-          "price": "13.8",
-          "salesVolume": "3778"
-        }, {
-          "goodsId": "25247159812342969484",
-          "goodsName": "黄元帅苹果",
-          "image": "http://img1.imgtn.bdimg.com/it/u=2524715981,2342969484&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.2",
-          "salesVolume": "6353"
-        }, {
-          "goodsId": "628299083234764413",
-          "goodsName": "澳洲青苹果",
-          "image": "http://img3.imgtn.bdimg.com/it/u=62829908,3234764413&fm=26&gp=0.jpg",
-          "mallPrice": "13.7",
-          "price": "12.3",
-          "salesVolume": "6353"
-        }, {
-          "goodsId": "33079287701746272686",
-          "goodsName": "蛇果",
-          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3307928770,1746272686&fm=26&gp=0.jpg",
-          "mallPrice": "14.6",
-          "price": "12.1",
-          "salesVolume": "7989"
-        }, {
-          "goodsId": "32845494552265231822",
-          "goodsName": "酸梨",
-          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3284549455,2265231822&fm=26&gp=0.jpg",
-          "mallPrice": "11.3",
-          "price": "9.7",
-          "salesVolume": "3655"
-        }, {
-          "goodsId": "15087985252600772182",
-          "goodsName": "库尔勒香梨",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1508798525,2600772182&fm=26&gp=0.jpg",
-          "mallPrice": "14.4",
-          "price": "12.3",
-          "salesVolume": "5454"
-        }, {
-          "goodsId": "13690260482075190701",
-          "goodsName": "雪花梨",
-          "image": "http://img5.imgtn.bdimg.com/it/u=1369026048,2075190701&fm=26&gp=0.jpg",
-          "mallPrice": "13.2",
-          "price": "12.6",
-          "salesVolume": "3577"
-        }, {
-          "goodsId": "40822005881633601096",
-          "goodsName": "苹果梨",
-          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4082200588,1633601096&fm=26&gp=0.jpg",
-          "mallPrice": "17.7",
-          "price": "15.8",
-          "salesVolume": "6666"
-        }, {
-          "goodsId": "3348859632732545392",
-          "goodsName": "圆黄梨",
-          "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=334885963,2732545392&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.8",
-          "salesVolume": "4569"
-        }, {
-          "goodsId": "40247281941861822420",
-          "goodsName": "椪柑",
-          "image": "http://img2.imgtn.bdimg.com/it/u=4024728194,1861822420&fm=26&gp=0.jpg",
-          "mallPrice": "12.2",
-          "price": "10.6",
-          "salesVolume": "7351"
-        }, {
-          "goodsId": "31378382932986369495",
-          "goodsName": "沙塘橘",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3137838293,2986369495&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.8",
-          "salesVolume": "8889"
-        }, {
-          "goodsId": "14010376801363959854",
-          "goodsName": "纽荷尔脐橙",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1401037680,1363959854&fm=26&gp=0.jpg",
-          "mallPrice": "15.3",
-          "price": "14.4",
-          "salesVolume": "4569"
-        }, {
-          "goodsId": "13451523251792988841",
-          "goodsName": "红玉血橙",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1345152325,1792988841&fm=26&gp=0.jpg",
-          "mallPrice": "18.4",
-          "price": "15.7",
-          "salesVolume": "8742"
-        }, {
-          "goodsId": "1341928227945500943",
-          "goodsName": "金桔",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1341928227,945500943&fm=26&gp=0.jpg",
-          "mallPrice": "14.9",
-          "price": "13.1",
-          "salesVolume": "3577"
-        }, {
-          "goodsId": "18232219252320854597",
-          "goodsName": "佛手柑",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1823221925,2320854597&fm=26&gp=0.jpg",
-          "mallPrice": "22.3",
-          "price": "25.7",
-          "salesVolume": "13209"
-        }, {
-          "goodsId": "4232880061554461557",
-          "goodsName": "沙田柚",
-          "image": "http://img0.imgtn.bdimg.com/it/u=4232880061,554461557&fm=11&gp=0.jpg",
-          "mallPrice": "16.1",
-          "price": "13.8",
-          "salesVolume": "4752"
-        }, {
-          "goodsId": "41660330922562685366",
-          "goodsName": "官溪蜜柚",
-          "image": "http://img4.imgtn.bdimg.com/it/u=4166033092,2562685366&fm=11&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "12.6",
-          "salesVolume": "2788"
-        }]
-      }, {
-        "categoryId": "1.1",
-        "categoryName": "热带水果",
-        "categoryEnglishName": "tropicalFruits",
-        "commoditys": [{
-          "goodsId": "6196001723045649672",
-          "goodsName": "苹果芒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=619600172,3045649672&fm=26&gp=0.jpg",
-          "mallPrice": "15",
-          "price": "16.8",
-          "salesVolume": "3021"
-        }, {
-          "goodsId": "41000373012217037678",
-          "goodsName": "红毛丹",
-          "image": "http://img1.imgtn.bdimg.com/it/u=4100037301,2217037678&fm=26&gp=0.jpg",
-          "mallPrice": "18",
-          "price": "21.5",
-          "salesVolume": "6538"
-        }, {
-          "goodsId": "893134562042995934",
-          "goodsName": "番荔枝",
-          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=89313456,2042995934&fm=26&gp=0.jpg",
-          "mallPrice": "17",
-          "price": "20.7",
-          "salesVolume": "8170"
-        }, {
-          "goodsId": "39904981591639245009",
-          "goodsName": "杨桃",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3990498159,1639245009&fm=26&gp=0.jpg",
-          "mallPrice": "13",
-          "price": "15.3",
-          "salesVolume": "2907"
-        }, {
-          "goodsId": "2620683847682040074",
-          "goodsName": "猕猴桃",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2620683847,682040074&fm=26&gp=0.jpg",
-          "mallPrice": "15.5",
-          "price": "18",
-          "salesVolume": "5681"
-        }, {
-          "goodsId": "20002165072312022663",
-          "goodsName": "龙眼",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2000216507,2312022663&fm=26&gp=0.jpg",
-          "mallPrice": "11.8",
-          "price": "13.8",
-          "salesVolume": "2907"
-        }, {
-          "goodsId": "25683801164220404133",
-          "goodsName": "火龙果",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2568380116,4220404133&fm=26&gp=0.jpg",
-          "mallPrice": "14.2",
-          "price": "16.9",
-          "salesVolume": "4888"
-        }]
-      }, {
-        "categoryId": "1.2",
-        "categoryName": "时令水果",
-        "categoryEnglishName": "seasonFruit",
-        "commoditys": [{
-          "goodsId": "14392653371540019082",
-          "goodsName": "红香蕉",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1439265337,1540019082&fm=26&gp=0.jpg",
-          "mallPrice": "20",
-          "price": "22.8",
-          "salesVolume": "4375"
-        }, {
-          "goodsId": "28384941413515212825",
-          "goodsName": "冬枣",
-          "image": "http://img2.imgtn.bdimg.com/it/u=2838494141,3515212825&fm=26&gp=0.jpg",
-          "mallPrice": "11.6",
-          "price": "12.1",
-          "salesVolume": "5554"
-        }, {
-          "goodsId": "4131990943380826430",
-          "goodsName": "枇杷",
-          "image": "http://img1.imgtn.bdimg.com/it/u=4131990943,380826430&fm=26&gp=0.jpg",
-          "mallPrice": "8.4",
-          "price": "9.3",
-          "salesVolume": "2440"
-        }, {
-          "goodsId": "28639596881334749045",
-          "goodsName": "果桑",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2863959688,1334749045&fm=26&gp=0.jpg",
-          "mallPrice": "11.3",
-          "price": "8.7",
-          "salesVolume": "7778"
-        }, {
-          "goodsId": "40479788321257968424",
-          "goodsName": "西瓜",
-          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4047978832,1257968424&fm=26&gp=0.jpg",
-          "mallPrice": "4.9",
-          "price": "8.3",
-          "salesVolume": "1398"
-        }, {
-          "goodsId": "14722304223668925053",
-          "goodsName": "菠萝",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1472230422,3668925053&fm=26&gp=0.jpg",
-          "mallPrice": "8.9",
-          "price": "11.2",
-          "salesVolume": "4761"
-        }, {
-          "goodsId": "11193092442533488468",
-          "goodsName": "樱桃",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1119309244,2533488468&fm=26&gp=0.jpg",
-          "mallPrice": "23.3",
-          "price": "25.6",
-          "salesVolume": "10038"
-        }]
-      }, {
-        "categoryId": "1.3",
-        "categoryName": "苹果/梨",
-        "categoryEnglishName": "applePear",
-        "commoditys": [{
-          "goodsId": "17625485491889757473",
-          "goodsName": "红富士苹果",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1762548549,1889757473&fm=26&gp=0.jpg",
-          "mallPrice": "14.6",
-          "price": "13.8",
-          "salesVolume": "3778"
-        }, {
-          "goodsId": "25247159812342969484",
-          "goodsName": "黄元帅苹果",
-          "image": "http://img1.imgtn.bdimg.com/it/u=2524715981,2342969484&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.2",
-          "salesVolume": "6353"
-        }, {
-          "goodsId": "628299083234764413",
-          "goodsName": "澳洲青苹果",
-          "image": "http://img3.imgtn.bdimg.com/it/u=62829908,3234764413&fm=26&gp=0.jpg",
-          "mallPrice": "13.7",
-          "price": "12.3",
-          "salesVolume": "6353"
-        }, {
-          "goodsId": "33079287701746272686",
-          "goodsName": "蛇果",
-          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3307928770,1746272686&fm=26&gp=0.jpg",
-          "mallPrice": "14.6",
-          "price": "12.1",
-          "salesVolume": "7989"
-        }, {
-          "goodsId": "32845494552265231822",
-          "goodsName": "酸梨",
-          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3284549455,2265231822&fm=26&gp=0.jpg",
-          "mallPrice": "11.3",
-          "price": "9.7",
-          "salesVolume": "3655"
-        }, {
-          "goodsId": "15087985252600772182",
-          "goodsName": "库尔勒香梨",
-          "image": "http://img1.imgtn.bdimg.com/it/u=1508798525,2600772182&fm=26&gp=0.jpg",
-          "mallPrice": "14.4",
-          "price": "12.3",
-          "salesVolume": "5454"
-        }, {
-          "goodsId": "13690260482075190701",
-          "goodsName": "雪花梨",
-          "image": "http://img5.imgtn.bdimg.com/it/u=1369026048,2075190701&fm=26&gp=0.jpg",
-          "mallPrice": "13.2",
-          "price": "12.6",
-          "salesVolume": "3577"
-        }, {
-          "goodsId": "40822005881633601096",
-          "goodsName": "苹果梨",
-          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4082200588,1633601096&fm=26&gp=0.jpg",
-          "mallPrice": "17.7",
-          "price": "15.8",
-          "salesVolume": "6666"
-        }, {
-          "goodsId": "3348859632732545392",
-          "goodsName": "圆黄梨",
-          "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=334885963,2732545392&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.8",
-          "salesVolume": "4569"
-        }]
-      }, {
-        "categoryId": "1.4",
-        "categoryName": "柑橘橙柚",
-        "categoryEnglishName": "citrusFruit",
-        "commoditys": [{
-          "goodsId": "40247281941861822420",
-          "goodsName": "椪柑",
-          "image": "http://img2.imgtn.bdimg.com/it/u=4024728194,1861822420&fm=26&gp=0.jpg",
-          "mallPrice": "12.2",
-          "price": "10.6",
-          "salesVolume": "7351"
-        }, {
-          "goodsId": "31378382932986369495",
-          "goodsName": "沙塘橘",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3137838293,2986369495&fm=26&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "14.8",
-          "salesVolume": "8889"
-        }, {
-          "goodsId": "14010376801363959854",
-          "goodsName": "纽荷尔脐橙",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1401037680,1363959854&fm=26&gp=0.jpg",
-          "mallPrice": "15.3",
-          "price": "14.4",
-          "salesVolume": "4569"
-        }, {
-          "goodsId": "13451523251792988841",
-          "goodsName": "红玉血橙",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1345152325,1792988841&fm=26&gp=0.jpg",
-          "mallPrice": "18.4",
-          "price": "15.7",
-          "salesVolume": "8742"
-        }, {
-          "goodsId": "1341928227945500943",
-          "goodsName": "金桔",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1341928227,945500943&fm=26&gp=0.jpg",
-          "mallPrice": "14.9",
-          "price": "13.1",
-          "salesVolume": "3577"
-        }, {
-          "goodsId": "18232219252320854597",
-          "goodsName": "佛手柑",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1823221925,2320854597&fm=26&gp=0.jpg",
-          "mallPrice": "22.3",
-          "price": "25.7",
-          "salesVolume": "13209"
-        }, {
-          "goodsId": "4232880061554461557",
-          "goodsName": "沙田柚",
-          "image": "http://img0.imgtn.bdimg.com/it/u=4232880061,554461557&fm=11&gp=0.jpg",
-          "mallPrice": "16.1",
-          "price": "13.8",
-          "salesVolume": "4752"
-        }, {
-          "goodsId": "41660330922562685366",
-          "goodsName": "官溪蜜柚",
-          "image": "http://img4.imgtn.bdimg.com/it/u=4166033092,2562685366&fm=11&gp=0.jpg",
-          "mallPrice": "15.7",
-          "price": "12.6",
-          "salesVolume": "2788"
-        }]
-      }]
-    }, {
-      "classifyId": "2",
-      "classifyName": "中外名酒",
-      "classifyEnglishName": "alcohol",
-      "alcoholCategory": [{
-        "categoryId": "2.0",
-        "categoryName": "全部",
-        "categoryEnglishName": "allAlcohol",
-        "commoditys": [{
-          "goodsId": "474106397148003155",
-          "goodsName": "茅台",
-          "image": "http://img2.imgtn.bdimg.com/it/u=474106397,148003155&fm=26&gp=0.jpg",
-          "mallPrice": "99.3",
-          "price": "125.6",
-          "salesVolume": "5422"
-        }, {
-          "goodsId": "23254350461132839012",
-          "goodsName": "五粮液",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2325435046,1132839012&fm=26&gp=0.jpg",
-          "mallPrice": "87.5",
-          "price": "99.9",
-          "salesVolume": "1892"
-        }, {
-          "goodsId": "29043212911670639968",
-          "goodsName": "古井贡酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2904321291,1670639968&fm=26&gp=0.jpg",
-          "mallPrice": "102.1",
-          "price": "89",
-          "salesVolume": "980"
-        }, {
-          "goodsId": "17622622591710734751",
-          "goodsName": "泸州老窖",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1762262259,1710734751&fm=26&gp=0.jpg",
-          "mallPrice": "114.7",
-          "price": "94.7",
-          "salesVolume": "1732"
-        }, {
-          "goodsId": "17522178782442346606",
-          "goodsName": "稻花香",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1752217878,2442346606&fm=26&gp=0.jpg",
-          "mallPrice": "88.8",
-          "price": "75.6",
-          "salesVolume": "2374"
-        }, {
-          "goodsId": "34413073933346930793",
-          "goodsName": "洋河",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3441307393,3346930793&fm=26&gp=0.jpg",
-          "mallPrice": "93.7",
-          "price": "79.9",
-          "salesVolume": "783"
-        }, {
-          "goodsId": "25775878141261219468",
-          "goodsName": "水井坊",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2577587814,1261219468&fm=26&gp=0.jpg",
-          "mallPrice": "99.8",
-          "price": "104.5",
-          "salesVolume": "2372"
-        }, {
-          "goodsId": "1208780657776515426",
-          "goodsName": "剑南春",
-          "image": "http://img3.imgtn.bdimg.com/it/u=1208780657,776515426&fm=26&gp=0.jpg",
-          "mallPrice": "107.7",
-          "price": "114.3",
-          "salesVolume": "284"
-        }, {
-          "goodsId": "2785622491953642914",
-          "goodsName": "青岛啤酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2785622491,953642914&fm=26&gp=0.jpg",
-          "mallPrice": "55.2",
-          "price": "62.8",
-          "salesVolume": "4000"
-        }, {
-          "goodsId": "6637283031815566155",
-          "goodsName": "雪花啤酒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=663728303,1815566155&fm=26&gp=0.jpg",
-          "mallPrice": "56.7",
-          "price": "61.7",
-          "salesVolume": "3690"
-        }, {
-          "goodsId": "6764201291396629589",
-          "goodsName": "燕京啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=676420129,1396629589&fm=26&gp=0.jpg",
-          "mallPrice": "56.3",
-          "price": "62.7",
-          "salesVolume": "4894"
-        }, {
-          "goodsId": "17835359512194216330",
-          "goodsName": "哈尔滨啤酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=1783535951,2194216330&fm=26&gp=0.jpg",
-          "mallPrice": "61.8",
-          "price": "64.3",
-          "salesVolume": "4621"
-        }, {
-          "goodsId": "1446779342189368508",
-          "goodsName": "百威啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=144677934,2189368508&fm=26&gp=0.jpg",
-          "mallPrice": "65.5",
-          "price": "78.9",
-          "salesVolume": "6851"
-        }, {
-          "goodsId": "23547519323663010912",
-          "goodsName": "珠江啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=2354751932,3663010912&fm=26&gp=0.jpg",
-          "mallPrice": "65.7",
-          "price": "67.3",
-          "salesVolume": "1784"
-        }, {
-          "goodsId": "879497229283974458",
-          "goodsName": "比尔森啤酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=879497229,283974458&fm=26&gp=0.jpg",
-          "mallPrice": "77.7",
-          "price": "81.8",
-          "salesVolume": "193"
-        }, {
-          "goodsId": "1692807552294772104",
-          "goodsName": "Henri Jayer",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1692807552,294772104&fm=26&gp=0.jpg",
-          "mallPrice": "134.6",
-          "price": "145.8",
-          "salesVolume": "7564"
-        }, {
-          "goodsId": "14942012573390003131",
-          "goodsName": "罗曼尼·康帝",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1494201257,3390003131&fm=26&gp=0.jpg",
-          "mallPrice": "157.3",
-          "price": "168.8",
-          "salesVolume": "4763"
-        }, {
-          "goodsId": "19203862891427728707",
-          "goodsName": "拉塔西",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1920386289,1427728707&fm=26&gp=0.jpg",
-          "mallPrice": "137.3",
-          "price": "151.1",
-          "salesVolume": "246"
-        }, {
-          "goodsId": "14513661551000898827",
-          "goodsName": "柏图斯",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1451366155,1000898827&fm=26&gp=0.jpg",
-          "mallPrice": "137.3",
-          "price": "155.3",
-          "salesVolume": "335"
-        }, {
-          "goodsId": "3998654112446686554",
-          "goodsName": "拉菲",
-          "image": "http://img3.imgtn.bdimg.com/it/u=399865411,2446686554&fm=26&gp=0.jpg",
-          "mallPrice": "189.8",
-          "price": "212.2",
-          "salesVolume": "6669"
-        }, {
-          "goodsId": "17870864233851980821",
-          "goodsName": "花堡",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1787086423,3851980821&fm=26&gp=0.jpg",
-          "mallPrice": "176.6",
-          "price": "159.2",
-          "salesVolume": "184"
-        }, {
-          "goodsId": "2699053761163634646",
-          "goodsName": "拉图",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2699053761,163634646&fm=26&gp=0.jpg",
-          "mallPrice": "155.9",
-          "price": "167.4",
-          "salesVolume": "389"
-        }, {
-          "goodsId": "27771622761470398074",
-          "goodsName": "状元红",
-          "image": "http://img0.imgtn.bdimg.com/it/u=2777162276,1470398074&fm=26&gp=0.jpg",
-          "mallPrice": "123.3",
-          "price": "133.3",
-          "salesVolume": "2314"
-        }, {
-          "goodsId": "2130021159514989104",
-          "goodsName": "加饭酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2130021159,514989104&fm=26&gp=0.jpg",
-          "mallPrice": "117.5",
-          "price": "124.2",
-          "salesVolume": "849"
-        }, {
-          "goodsId": "26607039623382560318",
-          "goodsName": "女儿红",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2660703962,3382560318&fm=26&gp=0.jpg",
-          "mallPrice": "144.4",
-          "price": "157.7",
-          "salesVolume": "5389"
-        }, {
-          "goodsId": "3252248971527932947",
-          "goodsName": "古越龙山",
-          "image": "http://img4.imgtn.bdimg.com/it/u=325224897,1527932947&fm=26&gp=0.jpg",
-          "mallPrice": "137.9",
-          "price": "141.1",
-          "salesVolume": "2412"
-        }, {
-          "goodsId": "42924334621141918971",
-          "goodsName": "塔牌",
-          "image": "http://img5.imgtn.bdimg.com/it/u=4292433462,1141918971&fm=26&gp=0.jpg",
-          "mallPrice": "117.8",
-          "price": "121.4",
-          "salesVolume": "3227"
-        }, {
-          "goodsId": "23074712031990424314",
-          "goodsName": "石库门",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2307471203,1990424314&fm=26&gp=0.jpg",
-          "mallPrice": "137.8",
-          "price": "151.6",
-          "salesVolume": "1485"
-        }, {
-          "goodsId": "2482057792457046859",
-          "goodsName": "咸亨",
-          "image": "http://img4.imgtn.bdimg.com/it/u=248205779,2457046859&fm=26&gp=0.jpg",
-          "mallPrice": "133.3",
-          "price": "147.6",
-          "salesVolume": "578"
-        }, {
-          "goodsId": "918807414223908094",
-          "goodsName": "沙洲优黄",
-          "image": "http://img3.imgtn.bdimg.com/it/u=91880741,4223908094&fm=26&gp=0.jpg",
-          "mallPrice": "99.6",
-          "price": "109.9",
-          "salesVolume": "749"
-        }, {
-          "goodsId": "4101595663986651459",
-          "goodsName": "会稽山",
-          "image": "http://img5.imgtn.bdimg.com/it/u=410159566,3986651459&fm=26&gp=0.jpg",
-          "mallPrice": "87.6",
-          "price": "93.2",
-          "salesVolume": "118"
-        }, {
-          "goodsId": "31434467142481449162",
-          "goodsName": "岭南",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3143446714,2481449162&fm=26&gp=0.jpg",
-          "mallPrice": "66.7",
-          "price": "73.2",
-          "salesVolume": "1783"
-        }, {
-          "goodsId": "33128163502134789357",
-          "goodsName": "生龙",
-          "image": "http://img5.imgtn.bdimg.com/it/u=3312816350,2134789357&fm=15&gp=0.jpg",
-          "mallPrice": "42.2",
-          "price": "51.5",
-          "salesVolume": "2111"
-        }, {
-          "goodsId": "33719952243878096665",
-          "goodsName": "朱鹅黑",
-          "image": "http://img3.imgtn.bdimg.com/it/u=3371995224,3878096665&fm=26&gp=0.jpg",
-          "mallPrice": "44.4",
-          "price": "48.9",
-          "salesVolume": "87"
-        }, {
-          "goodsId": "32091041583543002300",
-          "goodsName": "天馨",
-          "image": "http://img4.imgtn.bdimg.com/it/u=3209104158,3543002300&fm=26&gp=0.jpg",
-          "mallPrice": "50.2",
-          "price": "60.4",
-          "salesVolume": "119"
-        }, {
-          "goodsId": "1510864526971756760",
-          "goodsName": "稻花香",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1510864526,971756760&fm=26&gp=0.jpg",
-          "mallPrice": "62",
-          "price": "77.1",
-          "salesVolume": "3311"
-        }, {
-          "goodsId": "10445401941531368694",
-          "goodsName": "神霖",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1044540194,1531368694&fm=15&gp=0.jpg",
-          "mallPrice": "61.7",
-          "price": "73.5",
-          "salesVolume": "45"
-        }, {
-          "goodsId": "10301245142927419552",
-          "goodsName": "劲酒",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1030124514,2927419552&fm=26&gp=0.jpg",
-          "mallPrice": "123.6",
-          "price": "134.7",
-          "salesVolume": "2455"
-        }, {
-          "goodsId": "27938548403827859985",
-          "goodsName": "椰岛鹿龟酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2793854840,3827859985&fm=26&gp=0.jpg",
-          "mallPrice": "108.8",
-          "price": "129.9",
-          "salesVolume": "4651"
-        }, {
-          "goodsId": "22050225753129983125",
-          "goodsName": "至宝三鞭酒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=2205022575,3129983125&fm=26&gp=0.jpg",
-          "mallPrice": "118.6",
-          "price": "125.8",
-          "salesVolume": "2998"
-        }, {
-          "goodsId": "41953982661113652445",
-          "goodsName": "古岭神酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=4195398266,1113652445&fm=26&gp=0.jpg",
-          "mallPrice": "118.6",
-          "price": "125.8",
-          "salesVolume": "1974"
-        }, {
-          "goodsId": "21897866432340601228",
-          "goodsName": "宁夏红",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2189786643,2340601228&fm=26&gp=0.jpg",
-          "mallPrice": "133.6",
-          "price": "146.8",
-          "salesVolume": "3389"
-        }, {
-          "goodsId": "24634352223557332827",
-          "goodsName": "致中和",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2463435222,3557332827&fm=26&gp=0.jpg",
-          "mallPrice": "99.6",
-          "price": "103.8",
-          "salesVolume": "183"
-        }, {
-          "goodsId": "33152460242488734671",
-          "goodsName": "广誉远龟龄集酒",
-          "image": "http://img1.imgtn.bdimg.com/it/u=3315246024,2488734671&fm=26&gp=0.jpg",
-          "mallPrice": "103.4",
-          "price": "111.1",
-          "salesVolume": "99"
-        }]
-      }, {
-        "categoryId": "2.1",
-        "categoryName": "白酒",
-        "categoryEnglishName": "whiteSpirit",
-        "commoditys": [{
-          "goodsId": "474106397148003155",
-          "goodsName": "茅台",
-          "image": "http://img2.imgtn.bdimg.com/it/u=474106397,148003155&fm=26&gp=0.jpg",
-          "mallPrice": "99.3",
-          "price": "125.6",
-          "salesVolume": "5422"
-        }, {
-          "goodsId": "23254350461132839012",
-          "goodsName": "五粮液",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2325435046,1132839012&fm=26&gp=0.jpg",
-          "mallPrice": "87.5",
-          "price": "99.9",
-          "salesVolume": "1892"
-        }, {
-          "goodsId": "29043212911670639968",
-          "goodsName": "古井贡酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2904321291,1670639968&fm=26&gp=0.jpg",
-          "mallPrice": "102.1",
-          "price": "89",
-          "salesVolume": "980"
-        }, {
-          "goodsId": "17622622591710734751",
-          "goodsName": "泸州老窖",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1762262259,1710734751&fm=26&gp=0.jpg",
-          "mallPrice": "114.7",
-          "price": "94.7",
-          "salesVolume": "1732"
-        }, {
-          "goodsId": "17522178782442346606",
-          "goodsName": "稻花香",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1752217878,2442346606&fm=26&gp=0.jpg",
-          "mallPrice": "88.8",
-          "price": "75.6",
-          "salesVolume": "2374"
-        }, {
-          "goodsId": "34413073933346930793",
-          "goodsName": "洋河",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3441307393,3346930793&fm=26&gp=0.jpg",
-          "mallPrice": "93.7",
-          "price": "79.9",
-          "salesVolume": "783"
-        }, {
-          "goodsId": "25775878141261219468",
-          "goodsName": "水井坊",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2577587814,1261219468&fm=26&gp=0.jpg",
-          "mallPrice": "99.8",
-          "price": "104.5",
-          "salesVolume": "2372"
-        }, {
-          "goodsId": "1208780657776515426",
-          "goodsName": "剑南春",
-          "image": "http://img3.imgtn.bdimg.com/it/u=1208780657,776515426&fm=26&gp=0.jpg",
-          "mallPrice": "107.7",
-          "price": "114.3",
-          "salesVolume": "284"
-        }]
-      }, {
-        "categoryId": "2.2",
-        "categoryName": "啤酒",
-        "categoryEnglishName": "beer",
-        "commoditys": [{
-          "goodsId": "2785622491953642914",
-          "goodsName": "青岛啤酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2785622491,953642914&fm=26&gp=0.jpg",
-          "mallPrice": "55.2",
-          "price": "62.8",
-          "salesVolume": "4000"
-        }, {
-          "goodsId": "6637283031815566155",
-          "goodsName": "雪花啤酒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=663728303,1815566155&fm=26&gp=0.jpg",
-          "mallPrice": "56.7",
-          "price": "61.7",
-          "salesVolume": "3690"
-        }, {
-          "goodsId": "6764201291396629589",
-          "goodsName": "燕京啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=676420129,1396629589&fm=26&gp=0.jpg",
-          "mallPrice": "56.3",
-          "price": "62.7",
-          "salesVolume": "4894"
-        }, {
-          "goodsId": "17835359512194216330",
-          "goodsName": "哈尔滨啤酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=1783535951,2194216330&fm=26&gp=0.jpg",
-          "mallPrice": "61.8",
-          "price": "64.3",
-          "salesVolume": "4621"
-        }, {
-          "goodsId": "1446779342189368508",
-          "goodsName": "百威啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=144677934,2189368508&fm=26&gp=0.jpg",
-          "mallPrice": "65.5",
-          "price": "78.9",
-          "salesVolume": "6851"
-        }, {
-          "goodsId": "23547519323663010912",
-          "goodsName": "珠江啤酒",
-          "image": "http://img2.imgtn.bdimg.com/it/u=2354751932,3663010912&fm=26&gp=0.jpg",
-          "mallPrice": "65.7",
-          "price": "67.3",
-          "salesVolume": "1784"
-        }, {
-          "goodsId": "879497229283974458",
-          "goodsName": "比尔森啤酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=879497229,283974458&fm=26&gp=0.jpg",
-          "mallPrice": "77.7",
-          "price": "81.8",
-          "salesVolume": "193"
-        }]
-      }, {
-        "categoryId": "2.3",
-        "categoryName": "葡萄酒",
-        "categoryEnglishName": "wine",
-        "commoditys": [{
-          "goodsId": "1692807552294772104",
-          "goodsName": "Henri Jayer",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1692807552,294772104&fm=26&gp=0.jpg",
-          "mallPrice": "134.6",
-          "price": "145.8",
-          "salesVolume": "7564"
-        }, {
-          "goodsId": "14942012573390003131",
-          "goodsName": "罗曼尼·康帝",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1494201257,3390003131&fm=26&gp=0.jpg",
-          "mallPrice": "157.3",
-          "price": "168.8",
-          "salesVolume": "4763"
-        }, {
-          "goodsId": "19203862891427728707",
-          "goodsName": "拉塔西",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1920386289,1427728707&fm=26&gp=0.jpg",
-          "mallPrice": "137.3",
-          "price": "151.1",
-          "salesVolume": "246"
-        }, {
-          "goodsId": "14513661551000898827",
-          "goodsName": "柏图斯",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1451366155,1000898827&fm=26&gp=0.jpg",
-          "mallPrice": "137.3",
-          "price": "155.3",
-          "salesVolume": "335"
-        }, {
-          "goodsId": "3998654112446686554",
-          "goodsName": "拉菲",
-          "image": "http://img3.imgtn.bdimg.com/it/u=399865411,2446686554&fm=26&gp=0.jpg",
-          "mallPrice": "189.8",
-          "price": "212.2",
-          "salesVolume": "6669"
-        }, {
-          "goodsId": "17870864233851980821",
-          "goodsName": "花堡",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1787086423,3851980821&fm=26&gp=0.jpg",
-          "mallPrice": "176.6",
-          "price": "159.2",
-          "salesVolume": "184"
-        }, {
-          "goodsId": "2699053761163634646",
-          "goodsName": "拉图",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2699053761,163634646&fm=26&gp=0.jpg",
-          "mallPrice": "155.9",
-          "price": "167.4",
-          "salesVolume": "389"
-        }]
-      }, {
-        "categoryId": "2.4",
-        "categoryName": "黄酒",
-        "categoryEnglishName": "yellowWine",
-        "commoditys": [{
-          "goodsId": "27771622761470398074",
-          "goodsName": "状元红",
-          "image": "http://img0.imgtn.bdimg.com/it/u=2777162276,1470398074&fm=26&gp=0.jpg",
-          "mallPrice": "123.3",
-          "price": "133.3",
-          "salesVolume": "2314"
-        }, {
-          "goodsId": "2130021159514989104",
-          "goodsName": "加饭酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2130021159,514989104&fm=26&gp=0.jpg",
-          "mallPrice": "117.5",
-          "price": "124.2",
-          "salesVolume": "849"
-        }, {
-          "goodsId": "26607039623382560318",
-          "goodsName": "女儿红",
-          "image": "http://img4.imgtn.bdimg.com/it/u=2660703962,3382560318&fm=26&gp=0.jpg",
-          "mallPrice": "144.4",
-          "price": "157.7",
-          "salesVolume": "5389"
-        }, {
-          "goodsId": "3252248971527932947",
-          "goodsName": "古越龙山",
-          "image": "http://img4.imgtn.bdimg.com/it/u=325224897,1527932947&fm=26&gp=0.jpg",
-          "mallPrice": "137.9",
-          "price": "141.1",
-          "salesVolume": "2412"
-        }, {
-          "goodsId": "42924334621141918971",
-          "goodsName": "塔牌",
-          "image": "http://img5.imgtn.bdimg.com/it/u=4292433462,1141918971&fm=26&gp=0.jpg",
-          "mallPrice": "117.8",
-          "price": "121.4",
-          "salesVolume": "3227"
-        }, {
-          "goodsId": "23074712031990424314",
-          "goodsName": "石库门",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2307471203,1990424314&fm=26&gp=0.jpg",
-          "mallPrice": "137.8",
-          "price": "151.6",
-          "salesVolume": "1485"
-        }, {
-          "goodsId": "2482057792457046859",
-          "goodsName": "咸亨",
-          "image": "http://img4.imgtn.bdimg.com/it/u=248205779,2457046859&fm=26&gp=0.jpg",
-          "mallPrice": "133.3",
-          "price": "147.6",
-          "salesVolume": "578"
-        }, {
-          "goodsId": "918807414223908094",
-          "goodsName": "沙洲优黄",
-          "image": "http://img3.imgtn.bdimg.com/it/u=91880741,4223908094&fm=26&gp=0.jpg",
-          "mallPrice": "99.6",
-          "price": "109.9",
-          "salesVolume": "749"
-        }, {
-          "goodsId": "4101595663986651459",
-          "goodsName": "会稽山",
-          "image": "http://img5.imgtn.bdimg.com/it/u=410159566,3986651459&fm=26&gp=0.jpg",
-          "mallPrice": "87.6",
-          "price": "93.2",
-          "salesVolume": "118"
-        }]
-      }, {
-        "categoryId": "2.5",
-        "categoryName": "米酒",
-        "categoryEnglishName": "riceWine",
-        "commoditys": [{
-          "goodsId": "31434467142481449162",
-          "goodsName": "岭南",
-          "image": "http://img2.imgtn.bdimg.com/it/u=3143446714,2481449162&fm=26&gp=0.jpg",
-          "mallPrice": "66.7",
-          "price": "73.2",
-          "salesVolume": "1783"
-        }, {
-          "goodsId": "33128163502134789357",
-          "goodsName": "生龙",
-          "image": "http://img5.imgtn.bdimg.com/it/u=3312816350,2134789357&fm=15&gp=0.jpg",
-          "mallPrice": "42.2",
-          "price": "51.5",
-          "salesVolume": "2111"
-        }, {
-          "goodsId": "33719952243878096665",
-          "goodsName": "朱鹅黑",
-          "image": "http://img3.imgtn.bdimg.com/it/u=3371995224,3878096665&fm=26&gp=0.jpg",
-          "mallPrice": "44.4",
-          "price": "48.9",
-          "salesVolume": "87"
-        }, {
-          "goodsId": "32091041583543002300",
-          "goodsName": "天馨",
-          "image": "http://img4.imgtn.bdimg.com/it/u=3209104158,3543002300&fm=26&gp=0.jpg",
-          "mallPrice": "50.2",
-          "price": "60.4",
-          "salesVolume": "119"
-        }, {
-          "goodsId": "1510864526971756760",
-          "goodsName": "稻花香",
-          "image": "http://img2.imgtn.bdimg.com/it/u=1510864526,971756760&fm=26&gp=0.jpg",
-          "mallPrice": "62",
-          "price": "77.1",
-          "salesVolume": "3311"
-        }, {
-          "goodsId": "10445401941531368694",
-          "goodsName": "神霖",
-          "image": "http://img0.imgtn.bdimg.com/it/u=1044540194,1531368694&fm=15&gp=0.jpg",
-          "mallPrice": "61.7",
-          "price": "73.5",
-          "salesVolume": "45"
-        }]
-      }, {
-        "categoryId": "2.6",
-        "categoryName": "药酒",
-        "categoryEnglishName": "medicinalLiquor",
-        "commoditys": [{
-          "goodsId": "10301245142927419552",
-          "goodsName": "劲酒",
-          "image": "http://img4.imgtn.bdimg.com/it/u=1030124514,2927419552&fm=26&gp=0.jpg",
-          "mallPrice": "123.6",
-          "price": "134.7",
-          "salesVolume": "2455"
-        }, {
-          "goodsId": "27938548403827859985",
-          "goodsName": "椰岛鹿龟酒",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2793854840,3827859985&fm=26&gp=0.jpg",
-          "mallPrice": "108.8",
-          "price": "129.9",
-          "salesVolume": "4651"
-        }, {
-          "goodsId": "22050225753129983125",
-          "goodsName": "至宝三鞭酒",
-          "image": "http://img0.imgtn.bdimg.com/it/u=2205022575,3129983125&fm=26&gp=0.jpg",
-          "mallPrice": "118.6",
-          "price": "125.8",
-          "salesVolume": "2998"
-        }, {
-          "goodsId": "41953982661113652445",
-          "goodsName": "古岭神酒",
-          "image": "http://img3.imgtn.bdimg.com/it/u=4195398266,1113652445&fm=26&gp=0.jpg",
-          "mallPrice": "118.6",
-          "price": "125.8",
-          "salesVolume": "1974"
-        }, {
-          "goodsId": "21897866432340601228",
-          "goodsName": "宁夏红",
-          "image": "http://img3.imgtn.bdimg.com/it/u=2189786643,2340601228&fm=26&gp=0.jpg",
-          "mallPrice": "133.6",
-          "price": "146.8",
-          "salesVolume": "3389"
-        }, {
-          "goodsId": "24634352223557332827",
-          "goodsName": "致中和",
-          "image": "http://img5.imgtn.bdimg.com/it/u=2463435222,3557332827&fm=26&gp=0.jpg",
-          "mallPrice": "99.6",
-          "price": "103.8",
-          "salesVolume": "183"
-        }, {
-          "goodsId": "33152460242488734671",
-          "goodsName": "广誉远龟龄集酒",
-          "image": "http://img1.imgtn.bdimg.com/it/u=3315246024,2488734671&fm=26&gp=0.jpg",
-          "mallPrice": "103.4",
-          "price": "111.1",
-          "salesVolume": "99"
-        }]
-      }]
-    }]
+    "classify": [
+      {
+        "classifyId": "1",
+        "classifyName": "新鲜水果",
+        "classifyEnglishName": "fruit",
+        "fruitCategory": [
+          {
+            "categoryId": "1.0",
+            "categoryName": "全部",
+            "categoryEnglishName": "allFruit",
+            "commoditys": [
+              {
+                "goodsId": "6196001723045649672",
+                "goodsName": "苹果芒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=619600172,3045649672&fm=26&gp=0.jpg",
+                "mallPrice": "15",
+                "price": "16.8",
+                "salesVolume": "3021",
+                "goodsAddr": "福建漳州"
+              },
+              {
+                "goodsId": "41000373012217037678",
+                "goodsName": "红毛丹",
+                "image": "http://img1.imgtn.bdimg.com/it/u=4100037301,2217037678&fm=26&gp=0.jpg",
+                "mallPrice": "18",
+                "price": "21.5",
+                "salesVolume": "6538",
+                "goodsAddr": "甘肃嘉峪关"
+              },
+              {
+                "goodsId": "893134562042995934",
+                "goodsName": "番荔枝",
+                "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=89313456,2042995934&fm=26&gp=0.jpg",
+                "mallPrice": "17",
+                "price": "20.7",
+                "salesVolume": "8170",
+                "goodsAddr": "青海玉树"
+              },
+              {
+                "goodsId": "39904981591639245009",
+                "goodsName": "杨桃",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3990498159,1639245009&fm=26&gp=0.jpg",
+                "mallPrice": "13",
+                "price": "15.3",
+                "salesVolume": "2907",
+                "goodsAddr": "甘肃酒泉"
+              },
+              {
+                "goodsId": "2620683847682040074",
+                "goodsName": "猕猴桃",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2620683847,682040074&fm=26&gp=0.jpg",
+                "mallPrice": "15.5",
+                "price": "18",
+                "salesVolume": "5681",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "20002165072312022663",
+                "goodsName": "龙眼",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2000216507,2312022663&fm=26&gp=0.jpg",
+                "mallPrice": "11.8",
+                "price": "13.8",
+                "salesVolume": "2907",
+                "goodsAddr": "陕西西安"
+              },
+              {
+                "goodsId": "25683801164220404133",
+                "goodsName": "火龙果",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2568380116,4220404133&fm=26&gp=0.jpg",
+                "mallPrice": "14.2",
+                "price": "16.9",
+                "salesVolume": "4888",
+                "goodsAddr": "陕西商洛"
+              },
+              {
+                "goodsId": "14392653371540019082",
+                "goodsName": "红香蕉",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1439265337,1540019082&fm=26&gp=0.jpg",
+                "mallPrice": "20",
+                "price": "22.8",
+                "salesVolume": "4375",
+                "goodsAddr": "江西萍乡"
+              },
+              {
+                "goodsId": "28384941413515212825",
+                "goodsName": "冬枣",
+                "image": "http://img2.imgtn.bdimg.com/it/u=2838494141,3515212825&fm=26&gp=0.jpg",
+                "mallPrice": "11.6",
+                "price": "12.1",
+                "salesVolume": "5554",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "4131990943380826430",
+                "goodsName": "枇杷",
+                "image": "http://img1.imgtn.bdimg.com/it/u=4131990943,380826430&fm=26&gp=0.jpg",
+                "mallPrice": "8.4",
+                "price": "9.3",
+                "salesVolume": "2440",
+                "goodsAddr": "湖北武汉"
+              },
+              {
+                "goodsId": "28639596881334749045",
+                "goodsName": "果桑",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2863959688,1334749045&fm=26&gp=0.jpg",
+                "mallPrice": "11.3",
+                "price": "8.7",
+                "salesVolume": "7778",
+                "goodsAddr": "湖南益阳"
+              },
+              {
+                "goodsId": "40479788321257968424",
+                "goodsName": "西瓜",
+                "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4047978832,1257968424&fm=26&gp=0.jpg",
+                "mallPrice": "4.9",
+                "price": "8.3",
+                "salesVolume": "1398",
+                "goodsAddr": "四川成都"
+              },
+              {
+                "goodsId": "14722304223668925053",
+                "goodsName": "菠萝",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1472230422,3668925053&fm=26&gp=0.jpg",
+                "mallPrice": "8.9",
+                "price": "11.2",
+                "salesVolume": "4761",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "11193092442533488468",
+                "goodsName": "樱桃",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1119309244,2533488468&fm=26&gp=0.jpg",
+                "mallPrice": "23.3",
+                "price": "25.6",
+                "salesVolume": "10038",
+                "goodsAddr": "广西贺州"
+              },
+              {
+                "goodsId": "17625485491889757473",
+                "goodsName": "红富士苹果",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1762548549,1889757473&fm=26&gp=0.jpg",
+                "mallPrice": "14.6",
+                "price": "13.8",
+                "salesVolume": "3778",
+                "goodsAddr": "湖南岳阳"
+              },
+              {
+                "goodsId": "25247159812342969484",
+                "goodsName": "黄元帅苹果",
+                "image": "http://img1.imgtn.bdimg.com/it/u=2524715981,2342969484&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.2",
+                "salesVolume": "6353",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "628299083234764413",
+                "goodsName": "澳洲青苹果",
+                "image": "http://img3.imgtn.bdimg.com/it/u=62829908,3234764413&fm=26&gp=0.jpg",
+                "mallPrice": "13.7",
+                "price": "12.3",
+                "salesVolume": "6353",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "33079287701746272686",
+                "goodsName": "蛇果",
+                "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3307928770,1746272686&fm=26&gp=0.jpg",
+                "mallPrice": "14.6",
+                "price": "12.1",
+                "salesVolume": "7989",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "32845494552265231822",
+                "goodsName": "酸梨",
+                "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3284549455,2265231822&fm=26&gp=0.jpg",
+                "mallPrice": "11.3",
+                "price": "9.7",
+                "salesVolume": "3655",
+                "goodsAddr": "江西萍乡"
+              },
+              {
+                "goodsId": "15087985252600772182",
+                "goodsName": "库尔勒香梨",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1508798525,2600772182&fm=26&gp=0.jpg",
+                "mallPrice": "14.4",
+                "price": "12.3",
+                "salesVolume": "5454",
+                "goodsAddr": "新疆库尔勒"
+              },
+              {
+                "goodsId": "13690260482075190701",
+                "goodsName": "雪花梨",
+                "image": "http://img5.imgtn.bdimg.com/it/u=1369026048,2075190701&fm=26&gp=0.jpg",
+                "mallPrice": "13.2",
+                "price": "12.6",
+                "salesVolume": "3577",
+                "goodsAddr": "新疆叶城"
+              },
+              {
+                "goodsId": "40822005881633601096",
+                "goodsName": "苹果梨",
+                "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4082200588,1633601096&fm=26&gp=0.jpg",
+                "mallPrice": "17.7",
+                "price": "15.8",
+                "salesVolume": "6666",
+                "goodsAddr": "湖北鄂州"
+              },
+              {
+                "goodsId": "3348859632732545392",
+                "goodsName": "圆黄梨",
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=334885963,2732545392&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.8",
+                "salesVolume": "4569",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "40247281941861822420",
+                "goodsName": "椪柑",
+                "image": "http://img2.imgtn.bdimg.com/it/u=4024728194,1861822420&fm=26&gp=0.jpg",
+                "mallPrice": "12.2",
+                "price": "10.6",
+                "salesVolume": "7351",
+                "goodsAddr": "广西贺州"
+              },
+              {
+                "goodsId": "31378382932986369495",
+                "goodsName": "沙塘橘",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3137838293,2986369495&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.8",
+                "salesVolume": "8889",
+                "goodsAddr": "湖南永州"
+              },
+              {
+                "goodsId": "14010376801363959854",
+                "goodsName": "纽荷尔脐橙",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1401037680,1363959854&fm=26&gp=0.jpg",
+                "mallPrice": "15.3",
+                "price": "14.4",
+                "salesVolume": "4569",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "13451523251792988841",
+                "goodsName": "红玉血橙",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1345152325,1792988841&fm=26&gp=0.jpg",
+                "mallPrice": "18.4",
+                "price": "15.7",
+                "salesVolume": "8742",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "1341928227945500943",
+                "goodsName": "金桔",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1341928227,945500943&fm=26&gp=0.jpg",
+                "mallPrice": "14.9",
+                "price": "13.1",
+                "salesVolume": "3577",
+                "goodsAddr": "广东龙岗"
+              },
+              {
+                "goodsId": "18232219252320854597",
+                "goodsName": "佛手柑",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1823221925,2320854597&fm=26&gp=0.jpg",
+                "mallPrice": "22.3",
+                "price": "25.7",
+                "salesVolume": "13209",
+                "goodsAddr": "广东佛山"
+              },
+              {
+                "goodsId": "4232880061554461557",
+                "goodsName": "沙田柚",
+                "image": "http://img0.imgtn.bdimg.com/it/u=4232880061,554461557&fm=11&gp=0.jpg",
+                "mallPrice": "16.1",
+                "price": "13.8",
+                "salesVolume": "4752",
+                "goodsAddr": "山西太原"
+              },
+              {
+                "goodsId": "41660330922562685366",
+                "goodsName": "官溪蜜柚",
+                "image": "http://img4.imgtn.bdimg.com/it/u=4166033092,2562685366&fm=11&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "12.6",
+                "salesVolume": "2788",
+                "goodsAddr": "广西桂林"
+              }
+            ]
+          },
+          {
+            "categoryId": "1.1",
+            "categoryName": "热带水果",
+            "categoryEnglishName": "tropicalFruits",
+            "commoditys": [
+              {
+                "goodsId": "6196001723045649672",
+                "goodsName": "苹果芒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=619600172,3045649672&fm=26&gp=0.jpg",
+                "mallPrice": "15",
+                "price": "16.8",
+                "salesVolume": "3021",
+                "goodsAddr": "福建漳州"
+              },
+              {
+                "goodsId": "41000373012217037678",
+                "goodsName": "红毛丹",
+                "image": "http://img1.imgtn.bdimg.com/it/u=4100037301,2217037678&fm=26&gp=0.jpg",
+                "mallPrice": "18",
+                "price": "21.5",
+                "salesVolume": "6538",
+                "goodsAddr": "甘肃嘉峪关"
+              },
+              {
+                "goodsId": "893134562042995934",
+                "goodsName": "番荔枝",
+                "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=89313456,2042995934&fm=26&gp=0.jpg",
+                "mallPrice": "17",
+                "price": "20.7",
+                "salesVolume": "8170",
+                "goodsAddr": "青海玉树"
+              },
+              {
+                "goodsId": "39904981591639245009",
+                "goodsName": "杨桃",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3990498159,1639245009&fm=26&gp=0.jpg",
+                "mallPrice": "13",
+                "price": "15.3",
+                "salesVolume": "2907",
+                "goodsAddr": "甘肃酒泉"
+              },
+              {
+                "goodsId": "2620683847682040074",
+                "goodsName": "猕猴桃",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2620683847,682040074&fm=26&gp=0.jpg",
+                "mallPrice": "15.5",
+                "price": "18",
+                "salesVolume": "5681",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "20002165072312022663",
+                "goodsName": "龙眼",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2000216507,2312022663&fm=26&gp=0.jpg",
+                "mallPrice": "11.8",
+                "price": "13.8",
+                "salesVolume": "2907",
+                "goodsAddr": "陕西西安"
+              },
+              {
+                "goodsId": "25683801164220404133",
+                "goodsName": "火龙果",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2568380116,4220404133&fm=26&gp=0.jpg",
+                "mallPrice": "14.2",
+                "price": "16.9",
+                "salesVolume": "4888",
+                "goodsAddr": "陕西商洛"
+              }
+            ]
+          },
+          {
+            "categoryId": "1.2",
+            "categoryName": "时令水果",
+            "categoryEnglishName": "seasonFruit",
+            "commoditys": [
+              {
+                "goodsId": "14392653371540019082",
+                "goodsName": "红香蕉",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1439265337,1540019082&fm=26&gp=0.jpg",
+                "mallPrice": "20",
+                "price": "22.8",
+                "salesVolume": "4375",
+                "goodsAddr": "江西萍乡"
+              },
+              {
+                "goodsId": "28384941413515212825",
+                "goodsName": "冬枣",
+                "image": "http://img2.imgtn.bdimg.com/it/u=2838494141,3515212825&fm=26&gp=0.jpg",
+                "mallPrice": "11.6",
+                "price": "12.1",
+                "salesVolume": "5554",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "4131990943380826430",
+                "goodsName": "枇杷",
+                "image": "http://img1.imgtn.bdimg.com/it/u=4131990943,380826430&fm=26&gp=0.jpg",
+                "mallPrice": "8.4",
+                "price": "9.3",
+                "salesVolume": "2440",
+                "goodsAddr": "湖北武汉"
+              },
+              {
+                "goodsId": "28639596881334749045",
+                "goodsName": "果桑",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2863959688,1334749045&fm=26&gp=0.jpg",
+                "mallPrice": "11.3",
+                "price": "8.7",
+                "salesVolume": "7778",
+                "goodsAddr": "湖南益阳"
+              },
+              {
+                "goodsId": "40479788321257968424",
+                "goodsName": "西瓜",
+                "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4047978832,1257968424&fm=26&gp=0.jpg",
+                "mallPrice": "4.9",
+                "price": "8.3",
+                "salesVolume": "1398",
+                "goodsAddr": "四川成都"
+              },
+              {
+                "goodsId": "14722304223668925053",
+                "goodsName": "菠萝",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1472230422,3668925053&fm=26&gp=0.jpg",
+                "mallPrice": "8.9",
+                "price": "11.2",
+                "salesVolume": "4761",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "11193092442533488468",
+                "goodsName": "樱桃",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1119309244,2533488468&fm=26&gp=0.jpg",
+                "mallPrice": "23.3",
+                "price": "25.6",
+                "salesVolume": "10038",
+                "goodsAddr": "广西贺州"
+              }
+            ]
+          },
+          {
+            "categoryId": "1.3",
+            "categoryName": "苹果/梨",
+            "categoryEnglishName": "applePear",
+            "commoditys": [
+              {
+                "goodsId": "17625485491889757473",
+                "goodsName": "红富士苹果",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1762548549,1889757473&fm=26&gp=0.jpg",
+                "mallPrice": "14.6",
+                "price": "13.8",
+                "salesVolume": "3778",
+                "goodsAddr": "湖南岳阳"
+              },
+              {
+                "goodsId": "25247159812342969484",
+                "goodsName": "黄元帅苹果",
+                "image": "http://img1.imgtn.bdimg.com/it/u=2524715981,2342969484&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.2",
+                "salesVolume": "6353",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "628299083234764413",
+                "goodsName": "澳洲青苹果",
+                "image": "http://img3.imgtn.bdimg.com/it/u=62829908,3234764413&fm=26&gp=0.jpg",
+                "mallPrice": "13.7",
+                "price": "12.3",
+                "salesVolume": "6353",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "33079287701746272686",
+                "goodsName": "蛇果",
+                "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3307928770,1746272686&fm=26&gp=0.jpg",
+                "mallPrice": "14.6",
+                "price": "12.1",
+                "salesVolume": "7989",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "32845494552265231822",
+                "goodsName": "酸梨",
+                "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3284549455,2265231822&fm=26&gp=0.jpg",
+                "mallPrice": "11.3",
+                "price": "9.7",
+                "salesVolume": "3655",
+                "goodsAddr": "江西萍乡"
+              },
+              {
+                "goodsId": "15087985252600772182",
+                "goodsName": "库尔勒香梨",
+                "image": "http://img1.imgtn.bdimg.com/it/u=1508798525,2600772182&fm=26&gp=0.jpg",
+                "mallPrice": "14.4",
+                "price": "12.3",
+                "salesVolume": "5454",
+                "goodsAddr": "新疆库尔勒"
+              },
+              {
+                "goodsId": "13690260482075190701",
+                "goodsName": "雪花梨",
+                "image": "http://img5.imgtn.bdimg.com/it/u=1369026048,2075190701&fm=26&gp=0.jpg",
+                "mallPrice": "13.2",
+                "price": "12.6",
+                "salesVolume": "3577",
+                "goodsAddr": "新疆叶城"
+              },
+              {
+                "goodsId": "40822005881633601096",
+                "goodsName": "苹果梨",
+                "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4082200588,1633601096&fm=26&gp=0.jpg",
+                "mallPrice": "17.7",
+                "price": "15.8",
+                "salesVolume": "6666",
+                "goodsAddr": "湖北鄂州"
+              },
+              {
+                "goodsId": "3348859632732545392",
+                "goodsName": "圆黄梨",
+                "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=334885963,2732545392&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.8",
+                "salesVolume": "4569",
+                "goodsAddr": "广西桂林"
+              }
+            ]
+          },
+          {
+            "categoryId": "1.4",
+            "categoryName": "柑橘橙柚",
+            "categoryEnglishName": "citrusFruit",
+            "commoditys": [
+              {
+                "goodsId": "40247281941861822420",
+                "goodsName": "椪柑",
+                "image": "http://img2.imgtn.bdimg.com/it/u=4024728194,1861822420&fm=26&gp=0.jpg",
+                "mallPrice": "12.2",
+                "price": "10.6",
+                "salesVolume": "7351",
+                "goodsAddr": "广西贺州"
+              },
+              {
+                "goodsId": "31378382932986369495",
+                "goodsName": "沙塘橘",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3137838293,2986369495&fm=26&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "14.8",
+                "salesVolume": "8889",
+                "goodsAddr": "湖南永州"
+              },
+              {
+                "goodsId": "14010376801363959854",
+                "goodsName": "纽荷尔脐橙",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1401037680,1363959854&fm=26&gp=0.jpg",
+                "mallPrice": "15.3",
+                "price": "14.4",
+                "salesVolume": "4569",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "13451523251792988841",
+                "goodsName": "红玉血橙",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1345152325,1792988841&fm=26&gp=0.jpg",
+                "mallPrice": "18.4",
+                "price": "15.7",
+                "salesVolume": "8742",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "1341928227945500943",
+                "goodsName": "金桔",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1341928227,945500943&fm=26&gp=0.jpg",
+                "mallPrice": "14.9",
+                "price": "13.1",
+                "salesVolume": "3577",
+                "goodsAddr": "广东龙岗"
+              },
+              {
+                "goodsId": "18232219252320854597",
+                "goodsName": "佛手柑",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1823221925,2320854597&fm=26&gp=0.jpg",
+                "mallPrice": "22.3",
+                "price": "25.7",
+                "salesVolume": "13209",
+                "goodsAddr": "广东佛山"
+              },
+              {
+                "goodsId": "4232880061554461557",
+                "goodsName": "沙田柚",
+                "image": "http://img0.imgtn.bdimg.com/it/u=4232880061,554461557&fm=11&gp=0.jpg",
+                "mallPrice": "16.1",
+                "price": "13.8",
+                "salesVolume": "4752",
+                "goodsAddr": "山西太原"
+              },
+              {
+                "goodsId": "41660330922562685366",
+                "goodsName": "官溪蜜柚",
+                "image": "http://img4.imgtn.bdimg.com/it/u=4166033092,2562685366&fm=11&gp=0.jpg",
+                "mallPrice": "15.7",
+                "price": "12.6",
+                "salesVolume": "2788",
+                "goodsAddr": "广西桂林"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "classifyId": "2",
+        "classifyName": "中外名酒",
+        "classifyEnglishName": "alcohol",
+        "alcoholCategory": [
+          {
+            "categoryId": "2.0",
+            "categoryName": "全部",
+            "categoryEnglishName": "allAlcohol",
+            "commoditys": [
+              {
+                "goodsId": "474106397148003155",
+                "goodsName": "茅台",
+                "image": "http://img2.imgtn.bdimg.com/it/u=474106397,148003155&fm=26&gp=0.jpg",
+                "mallPrice": "99.3",
+                "price": "125.6",
+                "salesVolume": "5422",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "23254350461132839012",
+                "goodsName": "五粮液",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2325435046,1132839012&fm=26&gp=0.jpg",
+                "mallPrice": "87.5",
+                "price": "99.9",
+                "salesVolume": "1892",
+                "goodsAddr": "广东龙岗"
+              },
+              {
+                "goodsId": "29043212911670639968",
+                "goodsName": "古井贡酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2904321291,1670639968&fm=26&gp=0.jpg",
+                "mallPrice": "102.1",
+                "price": "89",
+                "salesVolume": "980",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "17622622591710734751",
+                "goodsName": "泸州老窖",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1762262259,1710734751&fm=26&gp=0.jpg",
+                "mallPrice": "114.7",
+                "price": "94.7",
+                "salesVolume": "1732",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "17522178782442346606",
+                "goodsName": "稻花香",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1752217878,2442346606&fm=26&gp=0.jpg",
+                "mallPrice": "88.8",
+                "price": "75.6",
+                "salesVolume": "2374",
+                "goodsAddr": "浙江宁波"
+              },
+              {
+                "goodsId": "34413073933346930793",
+                "goodsName": "洋河",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3441307393,3346930793&fm=26&gp=0.jpg",
+                "mallPrice": "93.7",
+                "price": "79.9",
+                "salesVolume": "783",
+                "goodsAddr": "湖北鄂州"
+              },
+              {
+                "goodsId": "25775878141261219468",
+                "goodsName": "水井坊",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2577587814,1261219468&fm=26&gp=0.jpg",
+                "mallPrice": "99.8",
+                "price": "104.5",
+                "salesVolume": "2372",
+                "goodsAddr": "甘肃酒泉"
+              },
+              {
+                "goodsId": "1208780657776515426",
+                "goodsName": "剑南春",
+                "image": "http://img3.imgtn.bdimg.com/it/u=1208780657,776515426&fm=26&gp=0.jpg",
+                "mallPrice": "107.7",
+                "price": "114.3",
+                "salesVolume": "284",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "2785622491953642914",
+                "goodsName": "青岛啤酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2785622491,953642914&fm=26&gp=0.jpg",
+                "mallPrice": "55.2",
+                "price": "62.8",
+                "salesVolume": "4000",
+                "goodsAddr": "山东青岛"
+              },
+              {
+                "goodsId": "6637283031815566155",
+                "goodsName": "雪花啤酒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=663728303,1815566155&fm=26&gp=0.jpg",
+                "mallPrice": "56.7",
+                "price": "61.7",
+                "salesVolume": "3690",
+                "goodsAddr": "湖南益阳"
+              },
+              {
+                "goodsId": "6764201291396629589",
+                "goodsName": "燕京啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=676420129,1396629589&fm=26&gp=0.jpg",
+                "mallPrice": "56.3",
+                "price": "62.7",
+                "salesVolume": "4894",
+                "goodsAddr": "江苏南京"
+              },
+              {
+                "goodsId": "17835359512194216330",
+                "goodsName": "哈尔滨啤酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=1783535951,2194216330&fm=26&gp=0.jpg",
+                "mallPrice": "61.8",
+                "price": "64.3",
+                "salesVolume": "4621",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "1446779342189368508",
+                "goodsName": "百威啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=144677934,2189368508&fm=26&gp=0.jpg",
+                "mallPrice": "65.5",
+                "price": "78.9",
+                "salesVolume": "6851",
+                "goodsAddr": "澳门离岛"
+              },
+              {
+                "goodsId": "23547519323663010912",
+                "goodsName": "珠江啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=2354751932,3663010912&fm=26&gp=0.jpg",
+                "mallPrice": "65.7",
+                "price": "67.3",
+                "salesVolume": "1784",
+                "goodsAddr": "广东珠海"
+              },
+              {
+                "goodsId": "879497229283974458",
+                "goodsName": "比尔森啤酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=879497229,283974458&fm=26&gp=0.jpg",
+                "mallPrice": "77.7",
+                "price": "81.8",
+                "salesVolume": "193",
+                "goodsAddr": "澳门离岛"
+              },
+              {
+                "goodsId": "1692807552294772104",
+                "goodsName": "Henri Jayer",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1692807552,294772104&fm=26&gp=0.jpg",
+                "mallPrice": "134.6",
+                "price": "145.8",
+                "salesVolume": "7564",
+                "goodsAddr": "香港九龙"
+              },
+              {
+                "goodsId": "14942012573390003131",
+                "goodsName": "罗曼尼·康帝",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1494201257,3390003131&fm=26&gp=0.jpg",
+                "mallPrice": "157.3",
+                "price": "168.8",
+                "salesVolume": "4763",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "19203862891427728707",
+                "goodsName": "拉塔西",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1920386289,1427728707&fm=26&gp=0.jpg",
+                "mallPrice": "137.3",
+                "price": "151.1",
+                "salesVolume": "246",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "14513661551000898827",
+                "goodsName": "柏图斯",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1451366155,1000898827&fm=26&gp=0.jpg",
+                "mallPrice": "137.3",
+                "price": "155.3",
+                "salesVolume": "335",
+                "goodsAddr": "天津南开"
+              },
+              {
+                "goodsId": "3998654112446686554",
+                "goodsName": "拉菲",
+                "image": "http://img3.imgtn.bdimg.com/it/u=399865411,2446686554&fm=26&gp=0.jpg",
+                "mallPrice": "189.8",
+                "price": "212.2",
+                "salesVolume": "6669",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "17870864233851980821",
+                "goodsName": "花堡",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1787086423,3851980821&fm=26&gp=0.jpg",
+                "mallPrice": "176.6",
+                "price": "159.2",
+                "salesVolume": "184",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "2699053761163634646",
+                "goodsName": "拉图",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2699053761,163634646&fm=26&gp=0.jpg",
+                "mallPrice": "155.9",
+                "price": "167.4",
+                "salesVolume": "389",
+                "goodsAddr": "广西贺州"
+              },
+              {
+                "goodsId": "27771622761470398074",
+                "goodsName": "状元红",
+                "image": "http://img0.imgtn.bdimg.com/it/u=2777162276,1470398074&fm=26&gp=0.jpg",
+                "mallPrice": "123.3",
+                "price": "133.3",
+                "salesVolume": "2314",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "2130021159514989104",
+                "goodsName": "加饭酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2130021159,514989104&fm=26&gp=0.jpg",
+                "mallPrice": "117.5",
+                "price": "124.2",
+                "salesVolume": "849",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "26607039623382560318",
+                "goodsName": "女儿红",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2660703962,3382560318&fm=26&gp=0.jpg",
+                "mallPrice": "144.4",
+                "price": "157.7",
+                "salesVolume": "5389",
+                "goodsAddr": "山西太原"
+              },
+              {
+                "goodsId": "3252248971527932947",
+                "goodsName": "古越龙山",
+                "image": "http://img4.imgtn.bdimg.com/it/u=325224897,1527932947&fm=26&gp=0.jpg",
+                "mallPrice": "137.9",
+                "price": "141.1",
+                "salesVolume": "2412",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "42924334621141918971",
+                "goodsName": "塔牌",
+                "image": "http://img5.imgtn.bdimg.com/it/u=4292433462,1141918971&fm=26&gp=0.jpg",
+                "mallPrice": "117.8",
+                "price": "121.4",
+                "salesVolume": "3227",
+                "goodsAddr": "广东佛山"
+              },
+              {
+                "goodsId": "23074712031990424314",
+                "goodsName": "石库门",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2307471203,1990424314&fm=26&gp=0.jpg",
+                "mallPrice": "137.8",
+                "price": "151.6",
+                "salesVolume": "1485",
+                "goodsAddr": "陕西商洛"
+              },
+              {
+                "goodsId": "2482057792457046859",
+                "goodsName": "咸亨",
+                "image": "http://img4.imgtn.bdimg.com/it/u=248205779,2457046859&fm=26&gp=0.jpg",
+                "mallPrice": "133.3",
+                "price": "147.6",
+                "salesVolume": "578",
+                "goodsAddr": "四川成都"
+              },
+              {
+                "goodsId": "918807414223908094",
+                "goodsName": "沙洲优黄",
+                "image": "http://img3.imgtn.bdimg.com/it/u=91880741,4223908094&fm=26&gp=0.jpg",
+                "mallPrice": "99.6",
+                "price": "109.9",
+                "salesVolume": "749",
+                "goodsAddr": "上海金山"
+              },
+              {
+                "goodsId": "4101595663986651459",
+                "goodsName": "会稽山",
+                "image": "http://img5.imgtn.bdimg.com/it/u=410159566,3986651459&fm=26&gp=0.jpg",
+                "mallPrice": "87.6",
+                "price": "93.2",
+                "salesVolume": "118",
+                "goodsAddr": "甘肃嘉峪关"
+              },
+              {
+                "goodsId": "31434467142481449162",
+                "goodsName": "岭南",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3143446714,2481449162&fm=26&gp=0.jpg",
+                "mallPrice": "66.7",
+                "price": "73.2",
+                "salesVolume": "1783",
+                "goodsAddr": "广东广州"
+              },
+              {
+                "goodsId": "33128163502134789357",
+                "goodsName": "生龙",
+                "image": "http://img5.imgtn.bdimg.com/it/u=3312816350,2134789357&fm=15&gp=0.jpg",
+                "mallPrice": "42.2",
+                "price": "51.5",
+                "salesVolume": "2111",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "33719952243878096665",
+                "goodsName": "朱鹅黑",
+                "image": "http://img3.imgtn.bdimg.com/it/u=3371995224,3878096665&fm=26&gp=0.jpg",
+                "mallPrice": "44.4",
+                "price": "48.9",
+                "salesVolume": "87",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "32091041583543002300",
+                "goodsName": "天馨",
+                "image": "http://img4.imgtn.bdimg.com/it/u=3209104158,3543002300&fm=26&gp=0.jpg",
+                "mallPrice": "50.2",
+                "price": "60.4",
+                "salesVolume": "119",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "1510864526971756760",
+                "goodsName": "稻花香",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1510864526,971756760&fm=26&gp=0.jpg",
+                "mallPrice": "62",
+                "price": "77.1",
+                "salesVolume": "3311",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "10445401941531368694",
+                "goodsName": "神霖",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1044540194,1531368694&fm=15&gp=0.jpg",
+                "mallPrice": "61.7",
+                "price": "73.5",
+                "salesVolume": "45",
+                "goodsAddr": "福建厦门"
+              },
+              {
+                "goodsId": "10301245142927419552",
+                "goodsName": "劲酒",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1030124514,2927419552&fm=26&gp=0.jpg",
+                "mallPrice": "123.6",
+                "price": "134.7",
+                "salesVolume": "2455",
+                "goodsAddr": "福建龙岩"
+              },
+              {
+                "goodsId": "27938548403827859985",
+                "goodsName": "椰岛鹿龟酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2793854840,3827859985&fm=26&gp=0.jpg",
+                "mallPrice": "108.8",
+                "price": "129.9",
+                "salesVolume": "4651",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "22050225753129983125",
+                "goodsName": "至宝三鞭酒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=2205022575,3129983125&fm=26&gp=0.jpg",
+                "mallPrice": "118.6",
+                "price": "125.8",
+                "salesVolume": "2998",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "41953982661113652445",
+                "goodsName": "古岭神酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=4195398266,1113652445&fm=26&gp=0.jpg",
+                "mallPrice": "118.6",
+                "price": "125.8",
+                "salesVolume": "1974",
+                "goodsAddr": "天津南开"
+              },
+              {
+                "goodsId": "21897866432340601228",
+                "goodsName": "宁夏红",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2189786643,2340601228&fm=26&gp=0.jpg",
+                "mallPrice": "133.6",
+                "price": "146.8",
+                "salesVolume": "3389",
+                "goodsAddr": "安徽铜陵"
+              },
+              {
+                "goodsId": "24634352223557332827",
+                "goodsName": "致中和",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2463435222,3557332827&fm=26&gp=0.jpg",
+                "mallPrice": "99.6",
+                "price": "103.8",
+                "salesVolume": "183",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "33152460242488734671",
+                "goodsName": "广誉远龟龄集酒",
+                "image": "http://img1.imgtn.bdimg.com/it/u=3315246024,2488734671&fm=26&gp=0.jpg",
+                "mallPrice": "103.4",
+                "price": "111.1",
+                "salesVolume": "99",
+                "goodsAddr": "青海玉树"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.1",
+            "categoryName": "白酒",
+            "categoryEnglishName": "whiteSpirit",
+            "commoditys": [
+              {
+                "goodsId": "474106397148003155",
+                "goodsName": "茅台",
+                "image": "http://img2.imgtn.bdimg.com/it/u=474106397,148003155&fm=26&gp=0.jpg",
+                "mallPrice": "99.3",
+                "price": "125.6",
+                "salesVolume": "5422",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "23254350461132839012",
+                "goodsName": "五粮液",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2325435046,1132839012&fm=26&gp=0.jpg",
+                "mallPrice": "87.5",
+                "price": "99.9",
+                "salesVolume": "1892",
+                "goodsAddr": "广东龙岗"
+              },
+              {
+                "goodsId": "29043212911670639968",
+                "goodsName": "古井贡酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2904321291,1670639968&fm=26&gp=0.jpg",
+                "mallPrice": "102.1",
+                "price": "89",
+                "salesVolume": "980",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "17622622591710734751",
+                "goodsName": "泸州老窖",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1762262259,1710734751&fm=26&gp=0.jpg",
+                "mallPrice": "114.7",
+                "price": "94.7",
+                "salesVolume": "1732",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "17522178782442346606",
+                "goodsName": "稻花香",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1752217878,2442346606&fm=26&gp=0.jpg",
+                "mallPrice": "88.8",
+                "price": "75.6",
+                "salesVolume": "2374",
+                "goodsAddr": "浙江宁波"
+              },
+              {
+                "goodsId": "34413073933346930793",
+                "goodsName": "洋河",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3441307393,3346930793&fm=26&gp=0.jpg",
+                "mallPrice": "93.7",
+                "price": "79.9",
+                "salesVolume": "783",
+                "goodsAddr": "湖北鄂州"
+              },
+              {
+                "goodsId": "25775878141261219468",
+                "goodsName": "水井坊",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2577587814,1261219468&fm=26&gp=0.jpg",
+                "mallPrice": "99.8",
+                "price": "104.5",
+                "salesVolume": "2372",
+                "goodsAddr": "甘肃酒泉"
+              },
+              {
+                "goodsId": "1208780657776515426",
+                "goodsName": "剑南春",
+                "image": "http://img3.imgtn.bdimg.com/it/u=1208780657,776515426&fm=26&gp=0.jpg",
+                "mallPrice": "107.7",
+                "price": "114.3",
+                "salesVolume": "284",
+                "goodsAddr": "宁夏石嘴山"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.2",
+            "categoryName": "啤酒",
+            "categoryEnglishName": "beer",
+            "commoditys": [
+              {
+                "goodsId": "2785622491953642914",
+                "goodsName": "青岛啤酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2785622491,953642914&fm=26&gp=0.jpg",
+                "mallPrice": "55.2",
+                "price": "62.8",
+                "salesVolume": "4000",
+                "goodsAddr": "山东青岛"
+              },
+              {
+                "goodsId": "6637283031815566155",
+                "goodsName": "雪花啤酒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=663728303,1815566155&fm=26&gp=0.jpg",
+                "mallPrice": "56.7",
+                "price": "61.7",
+                "salesVolume": "3690",
+                "goodsAddr": "湖南益阳"
+              },
+              {
+                "goodsId": "6764201291396629589",
+                "goodsName": "燕京啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=676420129,1396629589&fm=26&gp=0.jpg",
+                "mallPrice": "56.3",
+                "price": "62.7",
+                "salesVolume": "4894",
+                "goodsAddr": "江苏南京"
+              },
+              {
+                "goodsId": "17835359512194216330",
+                "goodsName": "哈尔滨啤酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=1783535951,2194216330&fm=26&gp=0.jpg",
+                "mallPrice": "61.8",
+                "price": "64.3",
+                "salesVolume": "4621",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "1446779342189368508",
+                "goodsName": "百威啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=144677934,2189368508&fm=26&gp=0.jpg",
+                "mallPrice": "65.5",
+                "price": "78.9",
+                "salesVolume": "6851",
+                "goodsAddr": "澳门离岛"
+              },
+              {
+                "goodsId": "23547519323663010912",
+                "goodsName": "珠江啤酒",
+                "image": "http://img2.imgtn.bdimg.com/it/u=2354751932,3663010912&fm=26&gp=0.jpg",
+                "mallPrice": "65.7",
+                "price": "67.3",
+                "salesVolume": "1784",
+                "goodsAddr": "广东珠海"
+              },
+              {
+                "goodsId": "879497229283974458",
+                "goodsName": "比尔森啤酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=879497229,283974458&fm=26&gp=0.jpg",
+                "mallPrice": "77.7",
+                "price": "81.8",
+                "salesVolume": "193",
+                "goodsAddr": "澳门离岛"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.3",
+            "categoryName": "葡萄酒",
+            "categoryEnglishName": "wine",
+            "commoditys": [
+              {
+                "goodsId": "1692807552294772104",
+                "goodsName": "Henri Jayer",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1692807552,294772104&fm=26&gp=0.jpg",
+                "mallPrice": "134.6",
+                "price": "145.8",
+                "salesVolume": "7564",
+                "goodsAddr": "香港九龙"
+              },
+              {
+                "goodsId": "14942012573390003131",
+                "goodsName": "罗曼尼·康帝",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1494201257,3390003131&fm=26&gp=0.jpg",
+                "mallPrice": "157.3",
+                "price": "168.8",
+                "salesVolume": "4763",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "19203862891427728707",
+                "goodsName": "拉塔西",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1920386289,1427728707&fm=26&gp=0.jpg",
+                "mallPrice": "137.3",
+                "price": "151.1",
+                "salesVolume": "246",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "14513661551000898827",
+                "goodsName": "柏图斯",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1451366155,1000898827&fm=26&gp=0.jpg",
+                "mallPrice": "137.3",
+                "price": "155.3",
+                "salesVolume": "335",
+                "goodsAddr": "天津南开"
+              },
+              {
+                "goodsId": "3998654112446686554",
+                "goodsName": "拉菲",
+                "image": "http://img3.imgtn.bdimg.com/it/u=399865411,2446686554&fm=26&gp=0.jpg",
+                "mallPrice": "189.8",
+                "price": "212.2",
+                "salesVolume": "6669",
+                "goodsAddr": "澳门半岛"
+              },
+              {
+                "goodsId": "17870864233851980821",
+                "goodsName": "花堡",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1787086423,3851980821&fm=26&gp=0.jpg",
+                "mallPrice": "176.6",
+                "price": "159.2",
+                "salesVolume": "184",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "2699053761163634646",
+                "goodsName": "拉图",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2699053761,163634646&fm=26&gp=0.jpg",
+                "mallPrice": "155.9",
+                "price": "167.4",
+                "salesVolume": "389",
+                "goodsAddr": "广西贺州"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.4",
+            "categoryName": "黄酒",
+            "categoryEnglishName": "yellowWine",
+            "commoditys": [
+              {
+                "goodsId": "27771622761470398074",
+                "goodsName": "状元红",
+                "image": "http://img0.imgtn.bdimg.com/it/u=2777162276,1470398074&fm=26&gp=0.jpg",
+                "mallPrice": "123.3",
+                "price": "133.3",
+                "salesVolume": "2314",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "2130021159514989104",
+                "goodsName": "加饭酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2130021159,514989104&fm=26&gp=0.jpg",
+                "mallPrice": "117.5",
+                "price": "124.2",
+                "salesVolume": "849",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "26607039623382560318",
+                "goodsName": "女儿红",
+                "image": "http://img4.imgtn.bdimg.com/it/u=2660703962,3382560318&fm=26&gp=0.jpg",
+                "mallPrice": "144.4",
+                "price": "157.7",
+                "salesVolume": "5389",
+                "goodsAddr": "山西太原"
+              },
+              {
+                "goodsId": "3252248971527932947",
+                "goodsName": "古越龙山",
+                "image": "http://img4.imgtn.bdimg.com/it/u=325224897,1527932947&fm=26&gp=0.jpg",
+                "mallPrice": "137.9",
+                "price": "141.1",
+                "salesVolume": "2412",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "42924334621141918971",
+                "goodsName": "塔牌",
+                "image": "http://img5.imgtn.bdimg.com/it/u=4292433462,1141918971&fm=26&gp=0.jpg",
+                "mallPrice": "117.8",
+                "price": "121.4",
+                "salesVolume": "3227",
+                "goodsAddr": "广东佛山"
+              },
+              {
+                "goodsId": "23074712031990424314",
+                "goodsName": "石库门",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2307471203,1990424314&fm=26&gp=0.jpg",
+                "mallPrice": "137.8",
+                "price": "151.6",
+                "salesVolume": "1485",
+                "goodsAddr": "陕西商洛"
+              },
+              {
+                "goodsId": "2482057792457046859",
+                "goodsName": "咸亨",
+                "image": "http://img4.imgtn.bdimg.com/it/u=248205779,2457046859&fm=26&gp=0.jpg",
+                "mallPrice": "133.3",
+                "price": "147.6",
+                "salesVolume": "578",
+                "goodsAddr": "四川成都"
+              },
+              {
+                "goodsId": "918807414223908094",
+                "goodsName": "沙洲优黄",
+                "image": "http://img3.imgtn.bdimg.com/it/u=91880741,4223908094&fm=26&gp=0.jpg",
+                "mallPrice": "99.6",
+                "price": "109.9",
+                "salesVolume": "749",
+                "goodsAddr": "上海金山"
+              },
+              {
+                "goodsId": "4101595663986651459",
+                "goodsName": "会稽山",
+                "image": "http://img5.imgtn.bdimg.com/it/u=410159566,3986651459&fm=26&gp=0.jpg",
+                "mallPrice": "87.6",
+                "price": "93.2",
+                "salesVolume": "118",
+                "goodsAddr": "甘肃嘉峪关"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.5",
+            "categoryName": "米酒",
+            "categoryEnglishName": "riceWine",
+            "commoditys": [
+              {
+                "goodsId": "31434467142481449162",
+                "goodsName": "岭南",
+                "image": "http://img2.imgtn.bdimg.com/it/u=3143446714,2481449162&fm=26&gp=0.jpg",
+                "mallPrice": "66.7",
+                "price": "73.2",
+                "salesVolume": "1783",
+                "goodsAddr": "广东广州"
+              },
+              {
+                "goodsId": "33128163502134789357",
+                "goodsName": "生龙",
+                "image": "http://img5.imgtn.bdimg.com/it/u=3312816350,2134789357&fm=15&gp=0.jpg",
+                "mallPrice": "42.2",
+                "price": "51.5",
+                "salesVolume": "2111",
+                "goodsAddr": "宁夏银川"
+              },
+              {
+                "goodsId": "33719952243878096665",
+                "goodsName": "朱鹅黑",
+                "image": "http://img3.imgtn.bdimg.com/it/u=3371995224,3878096665&fm=26&gp=0.jpg",
+                "mallPrice": "44.4",
+                "price": "48.9",
+                "salesVolume": "87",
+                "goodsAddr": "宁夏石嘴山"
+              },
+              {
+                "goodsId": "32091041583543002300",
+                "goodsName": "天馨",
+                "image": "http://img4.imgtn.bdimg.com/it/u=3209104158,3543002300&fm=26&gp=0.jpg",
+                "mallPrice": "50.2",
+                "price": "60.4",
+                "salesVolume": "119",
+                "goodsAddr": "青海西宁"
+              },
+              {
+                "goodsId": "1510864526971756760",
+                "goodsName": "稻花香",
+                "image": "http://img2.imgtn.bdimg.com/it/u=1510864526,971756760&fm=26&gp=0.jpg",
+                "mallPrice": "62",
+                "price": "77.1",
+                "salesVolume": "3311",
+                "goodsAddr": "广西桂林"
+              },
+              {
+                "goodsId": "10445401941531368694",
+                "goodsName": "神霖",
+                "image": "http://img0.imgtn.bdimg.com/it/u=1044540194,1531368694&fm=15&gp=0.jpg",
+                "mallPrice": "61.7",
+                "price": "73.5",
+                "salesVolume": "45",
+                "goodsAddr": "福建厦门"
+              }
+            ]
+          },
+          {
+            "categoryId": "2.6",
+            "categoryName": "药酒",
+            "categoryEnglishName": "medicinalLiquor",
+            "commoditys": [
+              {
+                "goodsId": "10301245142927419552",
+                "goodsName": "劲酒",
+                "image": "http://img4.imgtn.bdimg.com/it/u=1030124514,2927419552&fm=26&gp=0.jpg",
+                "mallPrice": "123.6",
+                "price": "134.7",
+                "salesVolume": "2455",
+                "goodsAddr": "福建龙岩"
+              },
+              {
+                "goodsId": "27938548403827859985",
+                "goodsName": "椰岛鹿龟酒",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2793854840,3827859985&fm=26&gp=0.jpg",
+                "mallPrice": "108.8",
+                "price": "129.9",
+                "salesVolume": "4651",
+                "goodsAddr": "山西大同"
+              },
+              {
+                "goodsId": "22050225753129983125",
+                "goodsName": "至宝三鞭酒",
+                "image": "http://img0.imgtn.bdimg.com/it/u=2205022575,3129983125&fm=26&gp=0.jpg",
+                "mallPrice": "118.6",
+                "price": "125.8",
+                "salesVolume": "2998",
+                "goodsAddr": "江西景德镇"
+              },
+              {
+                "goodsId": "41953982661113652445",
+                "goodsName": "古岭神酒",
+                "image": "http://img3.imgtn.bdimg.com/it/u=4195398266,1113652445&fm=26&gp=0.jpg",
+                "mallPrice": "118.6",
+                "price": "125.8",
+                "salesVolume": "1974",
+                "goodsAddr": "天津南开"
+              },
+              {
+                "goodsId": "21897866432340601228",
+                "goodsName": "宁夏红",
+                "image": "http://img3.imgtn.bdimg.com/it/u=2189786643,2340601228&fm=26&gp=0.jpg",
+                "mallPrice": "133.6",
+                "price": "146.8",
+                "salesVolume": "3389",
+                "goodsAddr": "安徽铜陵"
+              },
+              {
+                "goodsId": "24634352223557332827",
+                "goodsName": "致中和",
+                "image": "http://img5.imgtn.bdimg.com/it/u=2463435222,3557332827&fm=26&gp=0.jpg",
+                "mallPrice": "99.6",
+                "price": "103.8",
+                "salesVolume": "183",
+                "goodsAddr": "黑龙江哈尔滨"
+              },
+              {
+                "goodsId": "33152460242488734671",
+                "goodsName": "广誉远龟龄集酒",
+                "image": "http://img1.imgtn.bdimg.com/it/u=3315246024,2488734671&fm=26&gp=0.jpg",
+                "mallPrice": "103.4",
+                "price": "111.1",
+                "salesVolume": "99",
+                "goodsAddr": "青海玉树"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
